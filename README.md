@@ -1,12 +1,10 @@
 
 ### Olá! Eu sou o Hebert Soares👋
 <br>
-<div>
-  <a href="https://github.com/HebertFsoares">
-     <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HebertFsoares&theme=react&line_height=40&hide=css"/> </a>
-  </a>
-</div>
-<br>
+<a href="https://github.com/HebertFsoares">
+  <img height="195em" src = "https://github-readme-stats.vercel.app/api?username=HebertFSoares&show_icons=true&theme=dark" />
+  <img height="195em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=HebertFSoares&hide_progress=true&theme=dark&hide_border=false&&layout=compact)](https://github.com/anuraghazra/github-readme-stats)" />
+</a>
 
 ## Tecnologias que eu uso no meu dia
 <div style="display: inline_block"><br/>
