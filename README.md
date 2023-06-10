@@ -3,7 +3,6 @@
 <br>
 <a href="https://github.com/HebertFsoares">
   <img height="185em" src = "https://github-readme-stats.vercel.app/api?username=HebertFSoares&show_icons=true&theme=dark" />
-  <img height="185em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=HebertFSoares&hide_progress=true&theme=dark&hide_border=false&&layout=compact)](https://github.com/anuraghazra/github-readme-stats)" />
 </a>
 
 ## Tecnologias que eu uso no meu dia
