@@ -7,7 +7,7 @@
 
 - 🌐 Conheça mais em [Meu Portfólio](https://hebertsoares.vercel.app)
 
-- 🎯 Habilidades: **Python, Django, HTML, CSS, SQL, Nginx**
+- 🎯 Habilidades: **Python, Django, Nginx, Bootstrap, HTML, MySQL, AWS**
 
 - 👥 Conecte-se comigo no LinkedIn: [Hebert Soares](https://www.linkedin.com/in/hebert-soares-859084243/).
 
