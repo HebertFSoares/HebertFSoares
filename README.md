@@ -39,8 +39,8 @@
 ## ⚙️ &nbsp;Análise do GitHub
 
 <p align="left">
-<img width="522em" src="https://github-readme-stats.vercel.app/api?username=HebertFSoares&show_icons=true&theme=vision-friendly-dark" alt="hebert stats"/>
-<img width="452em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HebertFSoares&layout=compact&theme=vision-friendly-dark" alt="hebert most languages"/>
+<img width="533em" src="https://github-readme-stats.vercel.app/api?username=HebertFSoares&show_icons=true&theme=vision-friendly-dark" alt="hebert stats"/>
+<img width="430em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HebertFSoares&layout=compact&theme=vision-friendly-dark" alt="hebert most languages"/>
 </p>
 
 <br><br>
