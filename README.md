@@ -38,10 +38,13 @@
 
 ## ⚙️ &nbsp;Análise do GitHub
 
-<p align="left">
-<img width="533em" src="https://github-readme-stats.vercel.app/api?username=HebertFSoares&show_icons=true&theme=vision-friendly-dark" alt="hebert stats"/> <img width="430em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HebertFSoares&layout=compact&theme=vision-friendly-dark" alt="hebert most languages"/>
 
-</p>
+<div style="display: flex; justify-content: space-between;">
+    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=HebertFSoares&show_icons=true&theme=vision-friendly-dark" alt="hebert stats"/>
+    <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HebertFSoares&layout=compact&theme=vision-friendly-dark" alt="hebert most languages"/>
+</div>
+
+
 
 <br><br>
 
