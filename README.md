@@ -5,7 +5,8 @@
 
 - 🔗 Atualmente buscando colaborar em projetos de desenvolvimento web.
 
-- 🌐 Conheça mais em [Meu Portfólio](https://hebertsoares.vercel.app)
+- 🌐 Conheça mais em <a href="https://hebertsoares.vercel.app" target="_blank">Meu Portfólio</a>
+
 
 - 🎯 Habilidades: **Python, Django, Nginx, Bootstrap, HTML, MySQL, AWS**
 
