@@ -41,8 +41,8 @@
 <br>
 
 <div style="display: flex; justify-content: space-between;">
-    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=HebertFSoares&show_icons=true&theme=vision-friendly-dark" alt="hebert stats"/>
-    <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HebertFSoares&layout=compact&theme=vision-friendly-dark" alt="hebert most languages"/>
+    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=HebertFSoares&show_icons=true&theme=highcontrast" alt="hebert stats"/>
+    <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HebertFSoares&layout=compact&theme=highcontrast" alt="hebert most languages"/>
 </div>
 
 
