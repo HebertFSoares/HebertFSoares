@@ -2,13 +2,13 @@
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Meu nome é Hebert Soares</h1>
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
-- 🚀 Desenvolvedor Back End em busca de oportunidades emocionantes.
+- 🚀 Desenvolvedor Back End em busca de oportunidades.
 
 - 🔗 Atualmente buscando colaborar em projetos de desenvolvimento web.
 
 - 🌐 Conheça mais em [Meu Portfólio](https://hebertsoares.vercel.app)
   
-- 🎯 Habilidades: **Python, Django, Nginx, Bootstrap, HTML, MySQL, AWS**
+- 🎯 Habilidades: **Python, Django, Nginx, Typscript, Express, MySQL, AWS**
 
 - 👥 Conecte-se comigo no LinkedIn: [Hebert Soares](https://www.linkedin.com/in/hebert-soares-859084243/).
 
