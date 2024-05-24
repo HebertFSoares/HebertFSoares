@@ -52,8 +52,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/HebertFSoares/HebertFSoares/output/snake.svg" alt="Snake animation" />
 
 ###
