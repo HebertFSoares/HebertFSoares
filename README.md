@@ -1,70 +1,59 @@
+<h2 align="left">Hi 👋! My name is Hebert Soares.</h2>
 
-<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Meu nome é Hebert Soares</h1>
-<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+###
 
-- 🚀 Desenvolvedor Back End em busca de oportunidades.
+<img align="right" height="150" src="https://media1.tenor.com/m/GbIhyvdAW1AAAAAC/hxh-killua.gif"  />
 
-- 🔗 Atualmente buscando colaborar em projetos de desenvolvimento web.
+###
 
-- 🌐 Conheça mais em [Meu Portfólio](https://hebertsoares.vercel.app)
-  
-- 🎯 Habilidades: **Python, Django, Nginx, Typscript, Express, MySQL, AWS**
+###
 
-- 👥 Conecte-se comigo no LinkedIn: [Hebert Soares](https://www.linkedin.com/in/hebert-soares-859084243/).
+<p align="left">🚀 Desenvolvedor Back End em busca de oportunidades.<br><br>🔗 Atualmente buscando colaborar em projetos de desenvolvimento web.<br><br>🌐 Conheça mais em Meu Portfólio<br><br>👥 Conecte-se comigo no LinkedIn: Hebert Soares.</p>
 
+### 
 
+<h2 align="left">Techs</h2>
 
+###
 
-<br><br>
-
-## 🛠&nbsp;Tecnologias
-
-<div style="display: inline_block"><br/>
-    <img align="center" alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-    <img align="center" alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
-    <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-    <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-    <img align="center" alt="MySql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-    <img align="center" alt="MySql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-    <img align="center" alt="MySql" src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"/>
-    <img align="center" alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-    
-    
-   
-</div><br>
-
-
-<br><br>
-
-## ⚙️ &nbsp;Análise do GitHub
-
-<br>
-
-<div style="display: flex; justify-content: space-between;">
-    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=HebertFSoares&show_icons=true&theme=highcontrast" alt="hebert stats"/>
-    <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HebertFSoares&layout=compact&theme=highcontrast" alt="hebert most languages"/>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rabbitmq" height="40" alt="rabbitmq logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nginx" height="40" alt="nginx logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
 </div>
 
+###
 
+<h2 align="left">Stats</h2>
 
-<br><br>
+###
+<div align="center">
+    <img width="35%" src="https://github-readme-stats.vercel.app/api?username=HebertFSoares&show_icons=true&theme=dark" alt="hebert stats"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HebertFSoares&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
+###
 
-<!--
+<br clear="both">
 
-<img width="490em" src="https://github-readme-twitter-gazf.vercel.app/api?id=maykbrito&layout=wide&show_reply=off&show_retweet=off" />
+<img src="https://raw.githubusercontent.com/HebertFSoares/HebertFSoares/output/snake.svg" alt="Snake animation" />
 
-
-**maykbrito/maykbrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
