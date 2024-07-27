@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Hebert Soares.</h2>
+<h2 align="left">Olá 👋! Meu nome é Hebert Soares.</h2>
 
 ###
 
